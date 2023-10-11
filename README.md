@@ -1,7 +1,8 @@
 <h1>ROC8 Carrers Clonning Assignment</h1>
 
 <h3>Task link</h3>
-<a href="https://www.figma.com/file/7l1Ar0sPDERTOqMYBqElAp/Landing-Page---Startup-App?type=design&node-id=0:255&mode=design&t=s1pWONa9Hc8eGXHp-1 ">clicK me</a>
+
+<a href="https://www.figma.com/file/7l1Ar0sPDERTOqMYBqElAp/Landing-Page---Startup-App?type=design&node-id=0:255&mode=design&t=s1pWONa9Hc8eGXHp-1 ">Click me</a>
 
 <h3>Live server link</h3>
-this page is hosted here 
+this page is hosted here https://shashanknaik0.github.io/roc8_careers_task/index.html
